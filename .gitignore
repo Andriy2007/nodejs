@@ -1,0 +1,9 @@
+.idea
+node_modules
+dist
+.env
+/shelf/
+/.idea/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
